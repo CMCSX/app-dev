@@ -11,6 +11,7 @@ My first repository
 - Lilo and Stitch
 - Beauty and the Beast
 ` Catch me if you can `
---- Wolf of Wallstreet
+---
+  Wolf of Wallstreet
 [LittleMermaid]([https://www.youtube.com/watch?v=GC_mV1IpjWA&themeRefresh=1])
 ![Bugs Life](BugsLife.jpg)
